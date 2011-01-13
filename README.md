@@ -39,11 +39,8 @@ than nothing.)
 How to use these files
 ======================
 
-How to install presets:
-http://inside-lightroom.com/?page_id=8
-
-Information on how to install camera profiles:
-http://help.adobe.com/en_US/Lightroom/3.0/Using/WS268F3399-80B2-4169-A598-04C7F769FFA0.html#WSC7DFD470-BF58-4e3a-B038-14E4527437E1
+* [How to install presets](http://inside-lightroom.com/?page_id=8)
+* [How to install camera profiles](http://help.adobe.com/en_US/Lightroom/3.0/Using/WS268F3399-80B2-4169-A598-04C7F769FFA0.html#WSC7DFD470-BF58-4e3a-B038-14E4527437E1)
 
 Note: The presets & profiles included in this repository are intended for use with Lightroom 3.
 
@@ -51,8 +48,7 @@ Note: The presets & profiles included in this repository are intended for use wi
 Et cetera
 =========
 
-Files in this repository are licensed under the CC Attribution 3.0 License:
-http://creativecommons.org/licenses/by/3.0/
+Files in this repository are licensed under the [CC Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/)
 
 If you're using these files... you're not obligate to let me know, but it would
 be nice if you tell me you like them, or contribute improvements (such as more 
