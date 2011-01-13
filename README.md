@@ -36,6 +36,18 @@ custom-made profile specifically for your camera. (Still, it's probably better
 than nothing.)
 
 
+How to use these files
+======================
+
+How to install presets:
+http://inside-lightroom.com/?page_id=8
+
+Information on how to install camera profiles:
+http://help.adobe.com/en_US/Lightroom/3.0/Using/WS268F3399-80B2-4169-A598-04C7F769FFA0.html#WSC7DFD470-BF58-4e3a-B038-14E4527437E1
+
+Note: The presets & profiles included in this repository are intended for use with Lightroom 3.
+
+
 Et cetera
 =========
 
